@@ -1,0 +1,10 @@
+{
+    "name": "react-webpart",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+      "@types/react": "16.4.2",
+      "@types/react-dom": "16.0.5"
+    }
+  }
+  
